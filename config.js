@@ -14,13 +14,13 @@ const time = moment(Date.now()).tz('Asia/Jakarta').locale('id').format('HH:mm:ss
 //====== [ SETTING PAIRING & TOKEN ] ========//
 global.pairing = '--'
 //====== [ SETTING OWNER  ] ========//
-global.owner = [ '--', '--' ]
-global.owner0 = '--@s.whatsapp.net'
-global.ownernumber = '--'
-global.ownername = "森晓伟 Domp"
+global.owner = [ '233549772750', '--' ]
+global.owner0 = '233549772750@s.whatsapp.net'
+global.ownernumber = '233549772750'
+global.ownername = "King Rio"
 //====== [ SETTING BOT ] ========//
 global.botname = 'Lilychanj Bot'
-global.botnumber = '--'
+global.botnumber = '233549772750'
 global.bot_version = '1.1.0'
 global.prefa = ['/','!','.','#','&']
 //====== [ SETTING PACKNAME ] ========//
